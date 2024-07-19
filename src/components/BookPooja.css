@@ -1,0 +1,24 @@
+.book-pooja {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .book-pooja h1 {
+    font-size: 2.5em;
+    color: #333;
+  }
+  
+  .book-pooja a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .book-pooja a:hover {
+    background-color: #45a049;
+  }
+  

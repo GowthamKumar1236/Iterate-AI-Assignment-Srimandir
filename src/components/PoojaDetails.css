@@ -1,0 +1,43 @@
+.pooja-details {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .pooja-details h1 {
+    font-size: 2.5em;
+    color: #333;
+  }
+  
+  .pooja-details input {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 80%;
+    max-width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .pooja-details a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+
+  .pooja-details a:hover {
+    background-color: #45a049;
+  }
+  
+  .next-button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    text-decoration: none;
+    outline: none;
+    cursor: pointer;
+    background: none;
+  }

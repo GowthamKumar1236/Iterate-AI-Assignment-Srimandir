@@ -1,0 +1,41 @@
+.homepage {
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+  }
+
+  .logo{
+    height: 60px;
+  }
+  
+  .alignment{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .heading {
+    font-size: 25px;
+    color: #333333;
+    text-align: center;
+    margin-left: 10px;
+  }
+  
+  .homepage a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .homepage a:hover {
+    background-color: #45a049;
+  }
+  

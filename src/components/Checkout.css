@@ -1,0 +1,33 @@
+.checkout {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .checkout h1 {
+    font-size: 2.5em;
+    color: #333;
+  }
+  
+  .checkout a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .checkout a:hover {
+    background-color: #45a049;
+  }
+  
+  .proceed-button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    text-decoration: none;
+    outline: none;
+    cursor: pointer;
+    background: none;
+  }
