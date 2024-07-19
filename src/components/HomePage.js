@@ -5,7 +5,7 @@ import './HomePage.css';
 const HomePage = () => (
   <div className="homepage">
     <div className='alignment'>
-        <img src='https://res.cloudinary.com/dzxsnrerx/image/upload/v1721372745/images_ai8zmu.jpg' className='logo'/>
+        <img src='https://res.cloudinary.com/dzxsnrerx/image/upload/v1721372745/images_ai8zmu.jpg' className='logo' alt='srimandir'/>
         <h1 className='heading'>Sri Mandir</h1>
     </div>
     <div>    
